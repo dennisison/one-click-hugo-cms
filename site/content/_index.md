@@ -1,20 +1,37 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Your Wellness in Balance
+subtitle: Bringing balance in your wellness
+image: img/blance.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Detox the safe way
+  text: In today's fast-paced world, maintaining a healthy balance in our bodies
+    can be challenging, especially when we're exposed to various toxins in our
+    environment. Fortunately, there are safe and effective detox products
+    available that can help support our body's natural detoxification processes.
+    Whether you're looking to eliminate harmful toxins, improve digestion, or
+    boost your energy levels, the right detox product can make a significant
+    difference in your overall health and well-being. In this list, we'll
+    explore a selection of clinically-grade detox products that are safe and
+    effective for all ages, helping you achieve optimal health and vitality.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: What we offer
+  text: Cosēva Clinical-Grade™ Products
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/trs-bottle-ads-optomized.png
+    text: As a pure and concentrated source of zeolite detoxification, Advanced TRS
+      is a total solution for safely ridding harmful toxins from your body.
+  - image: img/advanced-fulvic-ads-optimized.png
+    text: Advanced Fulvic combines the power of humic acid, fulvic acid, and
+      targeted micronutrients into a powerful solution to support total body
+      detoxification and immune function .
+  - text: Advanced CBD is cleaner, faster acting, and more effective than regular
+      oils or tinctures, delivering one-of-a-kind, nano-enhanced benefits you
+      can feel.
+    image: img/cosevacbd-bottles-clear-png-optimized.png
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: 100% Purity Promise
+  text: Cosēva guarantees that our products are always 100% pure and potent. Our
+    dedication to sourcing the finest ingredients and obsession with production
+    quality ensure that Cosēva products are and always will be the purest, most
+    effective products on the planet.
 ---
-
