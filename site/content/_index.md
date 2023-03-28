@@ -3,7 +3,7 @@ title: Your Wellness in Balance
 subtitle: Bringing balance in your wellness
 image: img/blance.png
 blurb:
-  heading: "<style> h1 {text-align: center;} Detox the safe way </style>"
+  heading: Detox the safe way
   text: In today's fast-paced world, maintaining a healthy balance in our bodies
     can be challenging, especially when we're exposed to various toxins in our
     environment. Fortunately, there are safe and effective detox products
